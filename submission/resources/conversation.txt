@@ -1,0 +1,4 @@
+I interviewed my friend,Chris,who wants a simple responsive personal webpage that contains his 
+portfolio.His main target audience is tech companies especially startups and non tech small 
+businesses that want to automate their tasks. Wants technical skills,contact information and
+ miscellaneous details displayed and prefers colours that look "cool" like blue .
